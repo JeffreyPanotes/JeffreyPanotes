@@ -13,11 +13,11 @@
 <h2>Connect with me:</h2>
 
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JeffreyPanotes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://linkedin.com/in/JeffreyPanotes
 
 <!--
 **JeffreyPanotes/JeffreyPanotes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
