@@ -16,7 +16,7 @@
 
 
 
-[linkedin]: www.linkedin.com/in/jeffreypanotes
+[linkedin]: [www.linkedin.com/in/jeffreypanotes](https://www.linkedin.com/in/jeffrey-panotes-522a14341/)
 
 <!--
 **JeffreyPanotes/JeffreyPanotes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
